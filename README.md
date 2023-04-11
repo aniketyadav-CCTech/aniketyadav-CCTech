@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h3>It's so nice of you stop by! ☺️</h3>
+I work as a Member of Technical Staff 🥑 at [CCTech](https://www.cctech.co.in/) where I work with a excellent developer community.
 
 <!--
 **aniketyadav-CCTech/aniketyadav-CCTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
