@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3>It's so nice of you stop by! ☺️</h3>
+### It's so nice of you stop by! ☺️
 I work as a Member of Technical Staff 🥑 at [CCTech](https://www.cctech.co.in/) where I work with a excellent developer community.
 
 <!--
